@@ -1,0 +1,2 @@
+This project was not discussed with any classmate. No AI was used in this project, I leveraged the readings given to us in this weeks lesson as well as some more articles 
+from towardsdatascience and medium posts in which helped me better understand what to do for this weeks project. 
