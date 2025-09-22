@@ -1,0 +1,3 @@
+The algorithm I choose is the Thompson Sampling. I chose this algorithm as it yielded the best results out of the 3 algorithms I tried. 
+Thompson Sampling resulted in the second highest average reward with second lowest variance, E-greedy resulted in the highest reward but with higher variance than Thompson Sampling
+and the Upper Confidence approach resulted in the lowest average reward but also the lowest variance. While these results were all so similar, Thompson sampling had a great balance between exploration and exploitation.
